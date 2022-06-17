@@ -1,0 +1,45 @@
+:root {
+    --primary: #FF6B81
+}
+
+.btn1 {
+    background-color: var(--primary);
+    border: white;
+}
+
+.container1 {
+    background-color: var(--primary);
+    height: 70vh;
+}
+
+.bi-apple .bi-bag-dash {
+    background-color: palevioletred;
+}
+
+.bi-cloud-arrow-up {
+    background-color: var(--primary);
+}
+
+.color {
+    background-color: var(--primary);
+}
+
+.flex {
+    display: flex;
+}
+
+.size {
+    font-weight: 700;
+}
+
+.colorf {
+    color: var(--primary);
+}
+
+.footer-contact {
+    background-color: #051441;
+}
+
+::placeholder {
+    color: white;
+}
